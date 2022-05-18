@@ -9,4 +9,5 @@ const soldier = {
     shoot: function () {},
     recharge: function () {},
     hurt: function () {},
+    
 }
